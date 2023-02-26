@@ -1,4 +1,4 @@
-### Hi there, this is Jason speaking 👋
+### Hi there, this is Ngoc speaking 👋
 <--
 
 - 🔭 Currently working on pursuing my bachelor's degree in Software Engineering.
