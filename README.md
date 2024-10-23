@@ -1,10 +1,10 @@
-### Hi there, this is Ngoc speaking 👋
+### Hi there, my name is Jason 👋
 <--
 
 - 🔭 Currently pursuing my bachelor's degree in Software Engineering.
-- 🌱 Specialized in Web Development with experience in JavaScript/TypeScript, React, HTML, CSS, NodeJS, Nextjs, MongoDB, SQL, Tailwind, etc.
+- 🌱 Specialize in Web Development with experience in JavaScript/TypeScript, React, HTML, CSS, NodeJS, SQL, Nextjs, MongoDB, Tailwind, etc.
 - 🤔 Looking for job opportunities and help with the coding interview.
-- 📫 How to reach me: <ngoc.lu729@gmail.com> or [LinkedIn](https://www.linkedin.com/in/jasonlu99)
+- 📫 How to reach me: <jasonlu2907@gmail.com> or [LinkedIn](https://www.linkedin.com/in/jasonlu99)
 
 -->
 
@@ -28,5 +28,3 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 </div>
-
-![snake gif](https://github.com/jasonlu2907/jasonlu2907/blob/output/github-contribution-grid-snake.gif)
